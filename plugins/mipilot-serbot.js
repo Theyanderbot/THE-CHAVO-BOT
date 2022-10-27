@@ -1,4 +1,4 @@
-/*Jadibot Exclusivo de The-Mystic-Bot
+/*Jadibot Exclusivo de THE CHAVO-bot
 Si intentas adaptar este codigo a otro bot, Probablemente no funcione :P
 -Aiden
 */
