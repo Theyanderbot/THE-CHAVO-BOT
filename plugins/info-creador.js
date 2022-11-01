@@ -3,13 +3,13 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
 *—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/50671103203*
-*Instagram de mi creador es https://Instagram.com/ydr_xit*
+*Instagram de mi creador es https://www.instagram.com/ydr_xit*
 `.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/Theyanderbot/THE-CHAVO-BOT` },
 'mimetype': `application/${document}`,
 'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
-'fileLength': 99999999999999,
+'fileLength': 999999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
