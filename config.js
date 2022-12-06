@@ -14,9 +14,9 @@ global.suittag = ['50671103203']
 global.prems = ['50671103203'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★THE-CHAVO- 𝙱𝚘𝚝★'
+global.author = '𝐘𝐚𝐧𝐝𝐞𝐫 𝐨𝐟𝐜🪀'
 global.wm = '★THE-CHAVO- 𝙱𝚘𝚝★'
-global.igfg = '★THE-CHAVO- 𝙱𝚘𝚝★'
+global.igfg = '𝐘𝐚𝐧𝐝𝐞𝐫 𝐨𝐟𝐜🪀'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
