@@ -13,7 +13,7 @@ global.owner = [
 global.suittag = ['50671103203'] 
 global.prems = ['50671103203'] 
 
-global.packname = 'Griselda❤️'
+global.packname = 'kuaker'
 global.author = '𝐘𝐚𝐧𝐝𝐞𝐫 𝐨𝐟𝐜🪀'
 global.wm = '★THE-CHAVO- 𝙱𝚘𝚝★'
 global.igfg = '𝐘𝐚𝐧𝐝𝐞𝐫 𝐨𝐟𝐜🪀'
