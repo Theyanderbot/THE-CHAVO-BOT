@@ -536,7 +536,7 @@ mediaUrl: null,
 title: '👑 THE CHAVO -BOT  👑',
 body: null,
 thumbnail: img,
-sourceUrl: `https://www.paypal.me/yandervillarevia670`
+sourceUrl: `https://www.paypal.me/YanderArias67`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
