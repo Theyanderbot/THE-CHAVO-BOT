@@ -10,8 +10,8 @@ global.owner = [
   
   ['50671103203']
 ] 
-global.suittag = ['19199992999'] 
-global.prems = ['1919992999'] 
+global.suittag = ['50663333533'] 
+global.prems = ['50663333533'] 
 
 global.packname = 'kuaker'
 global.author = '𝐘𝐚𝐧𝐝𝐞𝐫 𝐨𝐟𝐜🪀'
