@@ -18,7 +18,7 @@ let buttonMessage= {
 'mediaUrl': 'https://github.com/Theyanderbot/THE-CHAVO-BOT',
 'mediaType': 2,
 'previewType': 'pdf',
-'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
+'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩'
 'body': wm,
 'thumbnail': imagen1,
 'sourceUrl': 'https://www.instagram.com/zack_best' }},
