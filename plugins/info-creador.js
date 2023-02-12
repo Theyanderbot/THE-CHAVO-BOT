@@ -2,8 +2,8 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
-*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/19199992999*
-*Instagram de mi creador es https://www.instagram.com/ydr_xit*
+*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/50663333533*
+*Instagram de mi creador es https://www.instagram.com/zack_best*
 `.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/Theyanderbot/THE-CHAVO-BOT` },
@@ -21,7 +21,7 @@ let buttonMessage= {
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://www.instagram.com/ydr_xit' }},
+'sourceUrl': 'https://www.instagram.com/zack_best' }},
 'caption': text,
 'footer': wm,
 'buttons':[
