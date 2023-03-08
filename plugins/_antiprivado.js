@@ -12,7 +12,7 @@ export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }
     
     if (bot.antiPrivate && !isOwner && !isROwner) {
        await m.reply(`Hola *@${m.sender.split`@`[0]}*, está prohibido hablar al privado del bot serás bloqueado.`, false, { mentions: [m.sender] })
-       await this.updateBlockStatus(m.chat, 'block')
+       await this.updateReportStatus(m.chat, 'Report')
     }
     return !1
 }
